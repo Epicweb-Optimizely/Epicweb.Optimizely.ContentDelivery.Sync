@@ -12,6 +12,9 @@ An Optimizely Helper proj that helps sync pages and propertes to another optimiz
 - Add "ImportAndSyncJob.cs" to you main proj
 - Configure ImportAndSyncJob 
 
+# blog
+
+https://optimizely.blog/2022/12/sync-optimizely-pages-between-sites/
 
 # Package maintainer
 
