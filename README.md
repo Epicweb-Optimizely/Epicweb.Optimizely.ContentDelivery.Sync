@@ -9,10 +9,10 @@ An Optimizely Helper proj that helps sync pages and propertes to another optimiz
 
 - Download the project
 - Add it to yours in Visual Studio
-- Add "ImportAndSyncJob.cs" to you main proj
+- Add "ImportAndSyncJob.cs" to your main proj
 - Configure ImportAndSyncJob 
 
-# blog
+# Blog
 
 https://optimizely.blog/2022/12/sync-optimizely-pages-between-sites/
 
